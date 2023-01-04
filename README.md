@@ -1,10 +1,8 @@
-### Hello there 👋
-
 # Mathias DAHA
-![Image de profil](image_de_profil.png)
+![Image de profil](img/image_de_profil.png)
 
 ## Expériences professionnelles
-###     DCS Easyware -
+###     DCS Easyware
 Société de prestations de santé à domicile (Technicien supports)
 Lyon 69003 - 16/01/2022-31/08/2022
 - Prise d’appels.
@@ -14,7 +12,7 @@ Lyon 69003 - 16/01/2022-31/08/2022
 - Exploitation des outils d’aide et de contrôle à distance (Teamviewer / SCCM).
 - Gestion des utilisateurs via l’Active Directory)
 
-###     ELIVIE -
+###     ELIVIE
 Société de prestations de santé à domicile (Technicien supports)
 Lyon 69003 - 07/10/2019-09/10/2020
 - Prise d’appels.
@@ -27,7 +25,7 @@ Lyon 69003 - 07/10/2019-09/10/2020
 - Exploitation des outils d’aide et de contrôle à distance (Teamviewer).
 - Gestion des utilisateurs via l’Active Directory)
 
-###     APRS -
+###     APRS
 Revêtement automobile (informaticien stagiaire)
 Chassieu 69680 - 15/10/2018-14/12/2018
 - Réception d’un cahier des charges.
@@ -47,7 +45,7 @@ Découverte Multimédia
 Artis - Culture et techniques du numérique (SAS)
 
 ###     École OPENCLASSROOMS
-(Sur internet)
+(En distanciel)
 2019/2020
 Niveau Bac+2 technicien informatique
 
@@ -75,16 +73,20 @@ Suite Adobe ⭐⭐⭐⭐
 Visual studio code ⭐⭐⭐⭐
 
 ### Soft Skills
-Curieux, flexible, dynamique, organiser, bien-veillant
+- Curieux,
+- Flexible,
+- Dynamique,
+- Organiser,
+- Bien-veillant
 
 ### Langues
-Anglais
+Anglais ⭐⭐⭐⭐
 
 ### Centres d’intérêt
-Jeux vidéo
-Natation
-Cinéma
-Lecture
+- Jeux vidéo
+- Natation
+- Cinéma
+- Lecture
 
 
 <!--
